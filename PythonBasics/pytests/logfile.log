@@ -1,0 +1,11 @@
+2020-04-19 18:53:17,169 : INFO : test_profileData : Ankit
+2020-04-19 18:53:17,169 : INFO : test_profileData : Trivedi
+2020-04-19 18:53:17,169 : INFO : test_profileData : www.twitter.com/ankitptrivedi
+2020-04-19 18:54:56,885 : INFO : test_profileData : Ankit
+2020-04-19 18:54:56,886 : INFO : test_profileData : Trivedi
+2020-04-19 18:54:56,886 : INFO : test_profileData : www.twitter.com/ankitptrivedi
+2020-04-19 18:54:56,898 : DEBUG : pytests.test_logging : This is a debug message
+2020-04-19 18:54:56,898 : INFO : pytests.test_logging : Some info is available for your program
+2020-04-19 18:54:56,899 : WARNING : pytests.test_logging : Your program has a warning
+2020-04-19 18:54:56,899 : ERROR : pytests.test_logging : An error was encountered while running the program
+2020-04-19 18:54:56,899 : CRITICAL : pytests.test_logging : There is a critical error in the program

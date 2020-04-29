@@ -1,0 +1,18 @@
+from selenium import webdriver
+
+# driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
+# driver = webdriver.Firefox(executable_path="C:\\geckodriver.exe")
+# driver = webdriver.Ie(executable_path="C:\\IEDriverServer.exe")
+driver = webdriver.Edge(executable_path="C:\\msedgedriver.exe")
+driver.maximize_window()
+# driver.get_screenshot_as_png()
+driver.get("https://rahulshettyacademy.com/")
+driver.get_screenshot_as_png()
+print(driver.title)
+print(driver.current_url)
+driver.get("https://rahulshettyacademy.com/AutomationPractice/")
+driver.minimize_window()
+#driver.get_screenshot_as_png()
+driver.back()
+driver.refresh()
+driver.close()
