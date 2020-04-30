@@ -21,3 +21,5 @@ print(str3.strip())
 
 print(str3.lstrip())
 print(str3.rstrip())
+
+# Latest code pushed
