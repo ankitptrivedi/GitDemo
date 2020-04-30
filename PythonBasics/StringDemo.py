@@ -23,3 +23,4 @@ print(str3.lstrip())
 print(str3.rstrip())
 
 # Latest code pushed
+# More code added
